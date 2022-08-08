@@ -2,4 +2,9 @@ First_Branch
 2 modification sur le fichier 
 
 
+<<<<<<< HEAD
 git stash pour revenir ulterieurement a completer cette tache
+=======
+
+certitude 100%
+>>>>>>> first_Modification
